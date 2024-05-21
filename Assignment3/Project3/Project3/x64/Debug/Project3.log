@@ -1,0 +1,30 @@
+﻿  main.cpp
+D:\GAMES101\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES101\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES101\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES101\Assignment3\Code\Texture.hpp(35,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES101\Assignment3\Code\Texture.hpp(35,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES101\Assignment3\Code\OBJ_Loader.h(951,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment3\Code\main.cpp(29,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment3\Code\main.cpp(58,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment3\Code\main.cpp(125,62): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(127,65): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(165,62): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(167,65): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(209,62): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(211,65): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(226,19): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(226,29): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(253,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment3\Code\main.cpp(254,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment3\Code\main.cpp(290,62): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(292,65): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(308,19): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(308,29): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(334,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment3\Code\main.cpp(335,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment3\Code\main.cpp(434,64): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(452,64): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(466,25): warning C4305: “-=”: 从“double”到“float”截断
+D:\GAMES101\Assignment3\Code\main.cpp(470,25): warning C4305: “+=”: 从“double”到“float”截断
+  Project3.vcxproj -> D:\GAMES101\Assignment3\Project3\x64\Debug\Project3.exe

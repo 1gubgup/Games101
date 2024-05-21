@@ -1,0 +1,44 @@
+﻿  Renderer.cpp
+D:\GAMES101\Assignment5\Code\global.hpp(22,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment5\Code\global.hpp(25,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment5\Code\global.hpp(55,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES101\Assignment5\Code\Object.hpp(16,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\Object.hpp(16,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\Scene.hpp(16): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\Scene.hpp(18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\Renderer.cpp(9,20): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment5\Code\Renderer.cpp(216,46): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES101\Assignment5\Code\Renderer.cpp(235,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment5\Code\Renderer.cpp(245,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+D:\GAMES101\Assignment5\Code\global.hpp(22,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment5\Code\global.hpp(25,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment5\Code\global.hpp(55,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES101\Assignment5\Code\Object.hpp(16,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\Object.hpp(16,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\Scene.hpp(16): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\Scene.hpp(18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\Triangle.hpp(7,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\Triangle.hpp(98,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment5\Code\Triangle.hpp(99,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES101\Assignment5\Code\main.cpp(16,49): warning C4305: “参数”: 从“double”到“float”截断
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\memory(3393,56): warning C4244: “参数”: 从“_Ty”转换到“const float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\GAMES101\Assignment5\Code\main.cpp(14): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Sphere,std::default_delete<Sphere>> std::make_unique<Sphere,Vector3f,int,0>(Vector3f &&,int &&)”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\memory(3393,56): warning C4244: “参数”: 从“_Ty”转换到“const float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\GAMES101\Assignment5\Code\main.cpp(18,70): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Sphere,std::default_delete<Sphere>> std::make_unique<Sphere,Vector3f,double,0>(Vector3f &&,double &&)”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\memory(3393,56): warning C4244: “参数”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\GAMES101\Assignment5\Code\main.cpp(32): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Light,std::default_delete<Light>> std::make_unique<Light,Vector3f,double,0>(Vector3f &&,double &&)”的引用
+  正在生成代码...
+  Project5.vcxproj -> D:\GAMES101\Assignment5\Project5\x64\Debug\Project5.exe

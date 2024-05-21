@@ -1,0 +1,19 @@
+﻿  BVH.cpp
+D:\GAMES101\Assignment6\PA6\Assignment6\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\BVH.cpp(178,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\BVH.cpp(220,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\BVH.cpp(221,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment6\PA6\Assignment6\BVH.cpp(222,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project6.vcxproj -> D:\GAMES101\Assignment6\PA6\Project6\x64\Debug\Project6.exe

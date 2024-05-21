@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\GAMES101\Assignment3\Code\main.cpp(2,10): fatal  error C1083: 无法打开包括文件: “opencv2/opencv.hpp”: No such file or directory
+  rasterizer.cpp
+D:\GAMES101\Assignment3\Code\rasterizer.hpp(7,10): fatal  error C1083: 无法打开包括文件: “eigen3/Eigen/Eigen”: No such file or directory
+  Texture.cpp
+  Triangle.cpp
+D:\GAMES101\Assignment3\Code\Triangle.hpp(8,10): fatal  error C1083: 无法打开包括文件: “eigen3/Eigen/Eigen”: No such file or directory
