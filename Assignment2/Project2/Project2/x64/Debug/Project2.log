@@ -1,0 +1,42 @@
+﻿  rasterizer.cpp
+D:\GAMES101\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES101\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES101\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(70,32): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(71,32): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(89,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(90,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(117,14): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(118,14): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(119,14): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(120,14): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(140,73): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(140,70): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(141,40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(148,47): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(148,44): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(159,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(159,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(160,73): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(160,70): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(161,40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(168,47): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(168,44): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES101\Assignment2\代码框架\rasterizer.cpp(229,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  Project2.vcxproj -> D:\GAMES101\Assignment2\Project2\x64\Debug\Project2.exe
